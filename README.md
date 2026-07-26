@@ -29,7 +29,7 @@ This book provides concise explanations, practical examples, reference tables, a
 
 ## 📥 Download
 
-The latest PDF is available in the **Releases** section.
+📥 **[Download the latest PDF](../../releases/latest)**
 
 ---
 
@@ -93,8 +93,7 @@ You may copy and redistribute this work with proper attribution to the original 
 
 ## 📥 دریافت
 
-آخرین نسخه PDF را می‌توانید از بخش **Releases** دانلود کنید.
-
+📥 **[دانلود آخرین نسخه فارسی](../../releases/latest)**
 ---
 
 ## ⭐ ویژگی‌ها
