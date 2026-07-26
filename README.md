@@ -3,4 +3,14 @@ A comprehensive Persian review of the Rust programming language with concise exp
 
 
 ## License
-This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+© 2026 Mahdi Askari
+
+This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+
+You may copy and redistribute this work provided that:
+- Proper attribution is given to the original author.
+- The work is not modified or redistributed in a modified form.
+
+Full license:
+https://creativecommons.org/licenses/by-nd/4.0/
